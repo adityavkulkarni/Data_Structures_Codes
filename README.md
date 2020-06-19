@@ -1,6 +1,6 @@
 # Data Structures 
 ## 1. Linked List 
-**Script Name:** [linked_list.cpp](https://github.com/adityavkulkarni/Data_Structures_Codes)
+**Script Name:** [linked_list.cpp](https://github.com/adityavkulkarni/Data_Structures_Codes/blob/master/linked_list.cpp)
 **Usage:**	
 ##### Object Creation:
 ```
