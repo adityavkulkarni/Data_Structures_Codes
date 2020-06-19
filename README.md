@@ -53,7 +53,7 @@ s.pop();
 - ##### Peeking Stack: 
 Shows Top Element(if stack is not empty)
 ```
-s.peek
+s.peek()
 ```
 
 
